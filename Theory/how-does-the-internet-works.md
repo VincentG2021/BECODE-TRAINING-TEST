@@ -5,7 +5,7 @@
 
 ## The Internet and the World Wide Web are not the same.
 
-To help understanding the basis about the [Internet](https://en.wikipedia.org/wiki/Internet) and what is a [computer network](https://en.wikipedia.org/wiki/Computer_network), watching this short video from Aaaron Youtube channel can help : [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc&ab_channel=Aaron).
+To help understanding the basis about the [Internet](https://en.wikipedia.org/wiki/Internet) and what is a [computer network](https://en.wikipedia.org/wiki/Computer_network), watching this short video from Aaaron's Youtube channel can help : [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc&ab_channel=Aaron).
  
 ### Nowadays :
 [Telecoms](https://en.wikipedia.org/wiki/Telecommunication) are working mostly with wires on and under earth, [submarine wires](https://submarine-cable-map-2020.telegeography.com/) and [satellites](https://satmap.space/).
