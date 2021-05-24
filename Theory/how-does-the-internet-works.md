@@ -24,4 +24,3 @@ Before the next update of this page, I'd like to share this [link](https://veill
 
 ✨Enjoy !✨
 ![milkyway](https://upload.wikimedia.org/wikipedia/commons/4/4f/Artist%E2%80%99s_impression_of_the_Milky_Way.jpg)
-
