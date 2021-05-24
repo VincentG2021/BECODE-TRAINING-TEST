@@ -1,7 +1,7 @@
 # How does the internet works ? 
 *with the World Wide Wait...*
 
-![To speed or not to speed]!(https://github.com/VincentG2021/BECODE-TRAINING-TEST/img/Slow-Connection-Speed-Internet.png?raw=true)
+![To speed or not to speed](https://github.com/VincentG2021/BECODE-TRAINING-TEST/img/Slow-Connection-Speed-Internet.png?raw=true)
 
 ## The Internet and the World Wide Web are not the same.
 
