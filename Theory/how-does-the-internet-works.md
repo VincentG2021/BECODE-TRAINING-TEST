@@ -1,7 +1,7 @@
 # How does the internet works ? 
 *with the World Wide Wait...*
 
-![To-speed-or-not-to-speed](../img/Slow-Connection-Speed-Internet.png?raw=true)
+![Tospeedornottospeed](../img/Slow_Connection_Speed_Internet.png?raw=true)
 
 ## The Internet and the World Wide Web are not the same.
 
@@ -22,5 +22,6 @@ But, as I discover contents, images, texts, videos, sounds,... covering what was
 
 Before the next update of this page, I'd like to share this [link](https://veillecarto2-0.fr/) to a collaborative french website about cartography, something that I found exciting too... :smile:
 
-✨Enjoy !✨
+##### ✨Enjoy !✨
+
 ![milkyway](../img/Artist’s_impression_of_the_Milky_Way.png?raw=true)
